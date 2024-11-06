@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Routh</h1>
-<h3 align="center">A passionate IOT and ML developer from India</h3>
+<h3 align="center">A passionate IOT developer and Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrouth001&label=Profile%20views&color=0e75b6&style=flat" alt="akashrouth001" /> </p>
 
