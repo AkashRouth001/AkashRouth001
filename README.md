@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://akash789routh.wixsite.com/mysite](https://akash789routh.wixsite.com/mysite)
 
-- ⚡ Fun fact **I think I am Lazy Creative Engineer**
+- ⚡ Fun fact **I think I am Creative Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
